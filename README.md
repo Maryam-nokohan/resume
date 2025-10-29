@@ -8,7 +8,7 @@ I’m Maryam Nokohan, and here you’ll find my current professional résumé an
 
 ## Live Demo
 Check out the live version of my resume:  
-[My Resume](https://maryam-nokohan.github.io)
+[My Resume](https://maryam-nokohan.github.io/resume/)
 
 ## Get in Touch
 Feel free to reach out to me via email: maryam.nokohan@gmail.com  
